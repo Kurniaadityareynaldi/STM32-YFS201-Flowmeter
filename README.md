@@ -125,4 +125,4 @@ Contributions, issues, and pull requests are welcome.
 
 ## License
 
-MIT License (change it to suit your needs).
+MIT License
